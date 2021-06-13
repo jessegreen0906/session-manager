@@ -1,0 +1,10 @@
+version: '2'
+
+services:
+  session-manager:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: session_manager
+    ports:
+    - "8080:8080"
