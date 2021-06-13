@@ -10,6 +10,10 @@ multiple iterations of a session.
 
 The use case that most people will be familiar will be online party/quiz style games.
 
+## Setup
+
+TODO:
+
 ## Implementation
 
 session-manager has two major suites of functionality.
